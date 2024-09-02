@@ -1,0 +1,2 @@
+MOD/prefab/Green Standing.xml		                                  : Green - Green Soldier
+MOD/prefab/Red Standing.xml		                                  : Red - Red Soldier

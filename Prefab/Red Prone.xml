@@ -1,0 +1,11 @@
+<prefab version="1.6.0">
+	<group pos="13.6 2.9 -12.1">
+		<body name="ArmyMan" tags="Soldier Team=Red Initiate State=Prone" pos="-0.1 0.0 2.4" rot="0.0 -180.0 0.0" dynamic="true">
+			<vox pos="0.0 0.0 2.5" rot="0.0 90.0 0.0" strength="20" file="MOD/Vox/Army Men Red.vox" object="pronefire">
+				<light name="Head" tags="Part=Head" pos="0.25 0.3 -0.05" rot="0.0 -90.0 0.0" color="0.0 0.0 0.0" size="0.1"/>
+				<light name="Barell" tags="Part=Barell" pos="1.65 0.15 0.05" color="0.0 0.0 0.0" size="0.05"/>
+			</vox>
+		</body>
+	</group>
+</prefab>
+

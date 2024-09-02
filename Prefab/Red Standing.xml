@@ -1,0 +1,11 @@
+<prefab version="1.6.0">
+	<group pos="20.2 0.0 0.0">
+		<body name="ArmyMan" tags="Soldier Team=Red Initiate State=Standing" pos="0.0 0.0 0.0" rot="0.0 180.0 0.0" dynamic="true">
+			<vox pos="0.0 0.0 0.1" rot="0.0 90.0 0.0" strength="20" file="MOD/Vox/Army Men Red.vox" object="standfire">
+				<light name="Head" tags="Part=Head" pos="-0.45 1.7 -0.05" rot="0.0 -90.0 0.0" color="0.0 0.0 0.0" size="0.1"/>
+				<light name="Barell" tags="Part=Barell" pos="0.95 1.55 0.05" rot="0.0 -90.0 0.0" color="0.0 0.0 0.0" size="0.05"/>
+			</vox>
+		</body>
+	</group>
+</prefab>
+
